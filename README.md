@@ -1,7 +1,7 @@
 # U.S. Patent Phrase to Phrase Matching
 - prv27th/pub72th training code.
 - The discription of this solution is available [here](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/334797).
-- The inference notebook in the competition is available [here](https://www.kaggle.com/code/calpis10000/pppm-ens-063).
+- The inference notebook is available [here](https://www.kaggle.com/code/calpis10000/pppm-ens-063).
 
 # Input
 - competition dataset: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/data
